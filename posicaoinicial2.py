@@ -1,0 +1,13 @@
+def posicoes(t1,t2,t3,t4,t5,t6):
+    t1.penup()
+    t1.goto(x=-250, y=-90)
+    t2.penup()
+    t2.goto(x=-250, y=-55)
+    t3.penup()
+    t3.goto(x=-250, y=-20)
+    t4.penup()
+    t4.goto(x=-250, y=60)
+    t5.penup()
+    t5.goto(x=-250, y=90)
+    t6.penup()
+    t6.goto(x=-250, y=120)
